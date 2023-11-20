@@ -1,2 +1,3 @@
 # BadgePedia
-Just collectin' badgemedia
+
+Just collecting badge media
